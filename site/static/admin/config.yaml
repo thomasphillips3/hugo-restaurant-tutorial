@@ -1,0 +1,17 @@
+backend:
+  name:        github
+  repo:        thomasphillips3/hugo-restaurant-tutorial
+  branch:      master
+
+media_folder:  "src/img/gallery" # Upload files to this directory
+
+collections:
+  - name:      Food
+  label:       "Food Item"  # Used in the UI, ie.: "New Post"
+  folder:      "site/content/food"
+  create:      true
+  fields:
+    - {label: "Name of Item", name: "title", widget: "string"}
+    - {label: "Supported Meals", name: "categories", widget: "list", default: ["lunch", "dinner"]}
+    - {label: "Ingredients/Description", name: "description", widget: "text"}
+    - {label: "Type of Food", name: "type", widget: "string", default: "raw bar"}
