@@ -1,0 +1,10 @@
+---
+title: coney dogs
+categories:
+  - lunch
+  - dinner
+description: chili and cheese on a hot dog
+type: grill
+price: $5
+---
+
