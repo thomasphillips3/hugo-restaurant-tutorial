@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Tasty Licks"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "[@_thomasphillips](https://github.com/thomasphillips3/hugo-restaurant-tutorial) Learning to use [Netlify](https://www.netlify.com/docs/) and [Hugo](https://github.com/netlify/victor-hugo)."
 
 [[menu.main]]
     name = "Food"
