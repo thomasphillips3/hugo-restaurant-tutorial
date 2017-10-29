@@ -3,7 +3,7 @@ title: kool aid
 categories:
   - drinks
 description: 'sugar, goodness'
-type: soft drink
+type: soft drinks
 price: '2'
 ---
 
