@@ -4,7 +4,7 @@ categories:
   - lunch
   - dinner
 description: 'bread and cheese, pressed with an iron until perfectly toasted'
-type: snacks
+type: snack
 price: $5
 ---
 
