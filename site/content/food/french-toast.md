@@ -1,7 +1,7 @@
 ---
 title: French Toast
 categories:
-  - breakfast
+  - lunch
 description: 'bread, eggs, cinnamon'
 type: breakfast
 price: '10'
