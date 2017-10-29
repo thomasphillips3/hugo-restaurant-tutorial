@@ -1,5 +1,5 @@
 ---
-title: coney dogs
+title: coney dog
 categories:
   - lunch
   - dinner
