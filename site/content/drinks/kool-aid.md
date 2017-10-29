@@ -4,6 +4,6 @@ categories:
   - drinks
 description: 'sugar, goodness'
 type: soft drinks
-price: '2'
+price: $2
 ---
 
