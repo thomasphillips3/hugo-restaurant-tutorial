@@ -1,5 +1,5 @@
 ---
-title: French Toast
+title: french toast
 categories:
   - lunch
 description: 'bread, eggs, cinnamon'
