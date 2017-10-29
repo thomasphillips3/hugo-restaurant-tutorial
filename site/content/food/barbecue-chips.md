@@ -3,7 +3,7 @@ title: barbecue chips
 categories:
   - lunch
 description: better made barbecue
-type: snack
+type: snacks
 price: 50¢
 ---
 
