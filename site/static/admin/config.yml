@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: https://github.com/thomasphillips3/hugo-restaurant-tutorial
+  repo: thomasphillips3/hugo-restaurant-tutorial
   branch: master
-  
+
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
 public_folder: "img/gallery"
 
